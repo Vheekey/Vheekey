@@ -1,4 +1,4 @@
-## Hi there! Welcome to My GitHub Space! 👋
+## Hi there! Welcome to My GitHub Space! [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/victoria-essien-a78820) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=internet-explorer)](https://www.vheekey.com/) 👋
 
 <!--
 **Vheekey/Vheekey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -70,9 +70,9 @@ As a software engineer who enjoys exploring technologies. Here are some things I
 
 ---
 
-## 💬 Let's Connect!
+## 💬 Drop me a line!
 
-I love sharing knowledge and collaborating with like-minded professionals. Feel free to reach out if you'd like to discuss, need advice, or are interested.
+I love sharing knowledge and collaborating with like-minded professionals. Feel free to hit me up if you'd like to discuss, need advice, or are interested.
 
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/victoria-essien-a78820)
 - **GitHub**: [My GitHub Repos](https://github.com/Vheekey)
@@ -82,9 +82,7 @@ I love sharing knowledge and collaborating with like-minded professionals. Feel 
 ## 🤪 Fun fact:
 If I didn’t love building applications, I’d probably be teaming up with Netflix to binge-watch shows!
 
-<!-- ---
 
-## 🤌 GitHub Stats
+<!-- ## 🤌 Git Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vheekey&show_icons=true)
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vheekey&layout=pie&hide_progress=true) -->
