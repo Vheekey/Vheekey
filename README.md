@@ -45,6 +45,7 @@ I’m continuously learning new technologies to stay current in the ever-evolvin
 ## 🌱 What I’m Currently Tinkering
 As a software engineer who enjoys exploring technologies. Here are some things I've tinkered with fairly recently 🤔:
 
+- Exploring **Grafana Prometheus** and **ELK stack** for advanced system monitoring.
 - **Python** for network optimization, particularly around automation and data analysis.
 - **Java** for building scalable backend services.
 - **iOS simulation** to explore mobile app development using **CocoaPods, Couchbase** and **Objective-C**.
