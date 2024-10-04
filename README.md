@@ -1,4 +1,4 @@
-## Hi there! Welcome to My GitHub Space! [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/victoria-essien-a78820) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=internet-explorer)](https://www.vheekey.com/) 👋
+## Hi there! Welcome to My GitHub Space! [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/victoria-essien-a78820103/) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=internet-explorer)](https://www.vheekey.com/) 👋
 
 <!--
 **Vheekey/Vheekey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -74,7 +74,7 @@ As a software engineer who enjoys exploring technologies. Here are some things I
 
 I love sharing knowledge and collaborating with like-minded professionals. Feel free to hit me up if you'd like to discuss, need advice, or are interested.
 
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/victoria-essien-a78820)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/victoria-essien-a78820103/)
 - **GitHub**: [My GitHub Repos](https://github.com/Vheekey)
 
 ---
