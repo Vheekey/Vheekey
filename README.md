@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a **Software Engineer** with several years of experience, specializing in **backend systems architecture and technologies**. I've had the opportunity to lead projects, work with amazing team mates, provide technical consultancy, solely design and build projects and features, build admin systems and work with companies in the **Financial Technology Industry, E-commerce, Food technology and the Sports and Gambling industry**. While my professional work resides on other platforms apart from Github, here on GitHub, I showcase my **fun projects** and ongoing **learning journey**. 
+I'm a **Software Engineer** with several years of experience, specializing in **backend systems architecture and technologies**. I've had the opportunity to lead projects, work with amazing team mates, provide technical consultancy, solely design and build projects and features, build admin systems and work with companies in the **Financial Technology Industry, E-commerce, Food technology and the Sports and Gambling industry** working with both new and legacy applications. While my professional work resides on other platforms apart from Github, here on GitHub, I showcase my **fun projects** and ongoing **learning journey**. 
 
 ---
 
