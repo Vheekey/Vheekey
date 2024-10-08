@@ -79,8 +79,9 @@ I love sharing knowledge and collaborating with like-minded professionals. Feel 
 
 ---
 
-## 🤪 Fun fact:
-If I didn’t love building applications, I’d probably be teaming up with Netflix to binge-watch shows!
+## 🤪 Fun facts:
+1. I once ranked No 2. on Wakatime world coding statistics leaderboard (Twas one helluva week)
+2. If I didn’t love building applications, I’d probably be teaming up with Netflix to binge-watch shows!
 
 
 <!-- ## 🤌 Git Stats
