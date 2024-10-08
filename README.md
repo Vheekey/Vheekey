@@ -84,6 +84,6 @@ I love sharing knowledge and collaborating with like-minded professionals. Feel 
 2. If I didn’t love building applications, I’d probably be teaming up with Netflix to binge-watch shows!
 
 
-<!-- ## 🤌 Git Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vheekey&layout=pie&hide_progress=true) -->
+## 🤌 Git Stats
+<img src="https://wakatime.com/share/@Vheekey/0d89519c-8d50-4e91-88e7-c6714b99acc1.svg" alt="WakaTime Stats" width="500"/>
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vheekey&layout=pie&hide_progress=true) -->
