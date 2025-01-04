@@ -28,9 +28,9 @@ I'm a **Software Engineer** with several years of experience, specializing in **
    - Worked across diverse tech stacks, primarily in **PHP and ecosystems**, ensuring robust, maintainable, and secure systems for various industries.
 
 - **Tech Stack**:
-   - Languages: `PHP`, `Bash`, `SQL`, `Java`, `Python`
-   - Databases: `MySQL`, `Mariadb`, `Postgres`, `Couchbase`, `Redis`
-   - Tools: `Nginx`, `Rabbitmq`, `Supervisor`, `Redis`, `Elastic Search`, `Graphql`, `Sentry`,`Docker`, `CI/CD`, `Grafana`, `Prometheus` and other fun tools
+   - Languages: `PHP`, `Bash`, `SQL`, `NoSQL`, `Java`, `Python`
+   - Databases: `MySQL`, `Mariadb`, `Postgres`, `Mongodb`, `Couchbase`, `Redis`
+   - Tools: `Nginx`, `Rabbitmq`, `Supervisor`, `Redis`, `Kafka`, `Elastic Search`, `Graphql`, `Sentry`,`Docker`, `CI/CD`, `Grafana`, `Prometheus` and other fun tools
    - OS: `MacOS`, `Windows`, `Linux`
    - Platforms: `GitLab`, `Github`, `Azure DevOps`, `Bitbucket`
 
@@ -46,12 +46,13 @@ I’m continuously learning new technologies to stay current in the ever-evolvin
 As a software engineer who enjoys exploring technologies. Here are some things I've tinkered with fairly recently 🤔:
 
 - Exploring **Grafana Prometheus** and **ELK stack** for advanced system monitoring.
+- Building **microservices**
 - **Python** for network optimization, particularly around automation and data analysis.
 - **Java** for building scalable backend services.
 - **iOS simulation** to explore mobile app development using **CocoaPods, Couchbase** and **Objective-C**.
 - **.Net** for maintaining an admin interface portal.
 - **Ruby on Rails** just because I was passing by.
-- **Golang** for the fun of it (Spoiler alert: Wasn't much fun)
+- **Golang** for the fun of it (Spoiler alert: Wasn't as much fun as anticipated)
 
 ---
 
