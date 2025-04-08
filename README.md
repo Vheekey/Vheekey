@@ -28,8 +28,8 @@ I'm a **Software Engineer** with several years of experience, specializing in **
    - Worked across diverse tech stacks, primarily in **PHP and ecosystems**, ensuring robust, maintainable, and secure systems for various industries.
 
 - **Tech Stack**:
-   - Languages: `PHP`, `Bash`, `SQL`, `NoSQL`, `Java`, `Python`
-   - Databases: `MySQL`, `Mariadb`, `Postgres`, `Mongodb`, `Couchbase`, `Redis`
+   - Languages: `PHP`, `Bash`, `SQL`, `NoSQL`, `Timescaledb`, `Java`, `Python`
+   - Databases: `MySQL`, `Mariadb`, `Postgres`, `Mongodb`, `Couchbase`, `InfluxDB`, `Redis`
    - Tools: `Nginx`, `Rabbitmq`, `Supervisor`, `Redis`, `Kafka`, `Elastic Search`, `Graphql`, `Sentry`,`Docker`, `CI/CD`, `Grafana`, `Prometheus` and other fun tools
    - OS: `MacOS`, `Windows`, `Linux`
    - Platforms: `GitLab`, `Github`, `Azure DevOps`, `Bitbucket`
