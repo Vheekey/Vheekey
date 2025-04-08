@@ -25,7 +25,7 @@ I'm a **Software Engineer** with several years of experience, specializing in **
    - Led the customer engagement enhancement team responsible for integrating various third-party services, including notification systems and voucher platforms, to support customer enhancement and improve service delivery by implementing failovers.
    - Provided consultancy services to organizations, focusing on optimizing backend processes to enhance profitability while reducing overhead costs.
    - Specialized in scalable API design, stateless API architecture and implementation, caching mechanisms, and database management.
-   - Worked across diverse tech stacks, primarily in **PHP and ecosystems**, ensuring robust, maintainable, and secure systems for various industries.
+   - Worked across diverse tech stacks ensuring robust, maintainable, and secure systems for various industries.
 
 - **Tech Stack**:
    - Languages: `PHP`, `Bash`, `SQL`, `NoSQL`, `Timescaledb`, `Java`, `Python`
@@ -52,7 +52,7 @@ As a software engineer who enjoys exploring technologies. Here are some things I
 - **iOS simulation** to explore mobile app development using **CocoaPods, Couchbase** and **Objective-C**.
 - **.Net** for maintaining an admin interface portal.
 - **Ruby on Rails** just because I was passing by.
-- **Golang** for the fun of it (Spoiler alert: Wasn't as much fun as anticipated)
+- **Golang** for the fun of it (Spoiler alert: Wasn't as much fun as anticipated, will retry with another fun project 😁)
 
 ---
 
